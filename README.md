@@ -3,7 +3,7 @@
  
 SQL queries ? [Exploring_Data folder](/Exploring_Data/)
 # Background
-This is one of my projects to showcase my progress in **SQL** and my improvement to solve complex queries 
+This is one of my projects to showcase my progress in **SQL** and my improvement to solve complex queries and now cleaning data
 
 ### The questions I wanted to answer through my SQL queries were:
 
